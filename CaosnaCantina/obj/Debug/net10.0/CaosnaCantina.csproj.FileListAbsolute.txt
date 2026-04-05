@@ -1,0 +1,14 @@
+C:\Users\Zeus_Desktop\OneDrive\Documentos\GitHub\CaosnaCantina\bin\Debug\net10.0\CaosnaCantina.exe
+C:\Users\Zeus_Desktop\OneDrive\Documentos\GitHub\CaosnaCantina\bin\Debug\net10.0\CaosnaCantina.deps.json
+C:\Users\Zeus_Desktop\OneDrive\Documentos\GitHub\CaosnaCantina\bin\Debug\net10.0\CaosnaCantina.runtimeconfig.json
+C:\Users\Zeus_Desktop\OneDrive\Documentos\GitHub\CaosnaCantina\bin\Debug\net10.0\CaosnaCantina.dll
+C:\Users\Zeus_Desktop\OneDrive\Documentos\GitHub\CaosnaCantina\bin\Debug\net10.0\CaosnaCantina.pdb
+C:\Users\Zeus_Desktop\OneDrive\Documentos\GitHub\CaosnaCantina\obj\Debug\net10.0\CaosnaCantina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeus_Desktop\OneDrive\Documentos\GitHub\CaosnaCantina\obj\Debug\net10.0\CaosnaCantina.AssemblyInfoInputs.cache
+C:\Users\Zeus_Desktop\OneDrive\Documentos\GitHub\CaosnaCantina\obj\Debug\net10.0\CaosnaCantina.AssemblyInfo.cs
+C:\Users\Zeus_Desktop\OneDrive\Documentos\GitHub\CaosnaCantina\obj\Debug\net10.0\CaosnaCantina.csproj.CoreCompileInputs.cache
+C:\Users\Zeus_Desktop\OneDrive\Documentos\GitHub\CaosnaCantina\obj\Debug\net10.0\CaosnaCantina.dll
+C:\Users\Zeus_Desktop\OneDrive\Documentos\GitHub\CaosnaCantina\obj\Debug\net10.0\refint\CaosnaCantina.dll
+C:\Users\Zeus_Desktop\OneDrive\Documentos\GitHub\CaosnaCantina\obj\Debug\net10.0\CaosnaCantina.pdb
+C:\Users\Zeus_Desktop\OneDrive\Documentos\GitHub\CaosnaCantina\obj\Debug\net10.0\CaosnaCantina.genruntimeconfig.cache
+C:\Users\Zeus_Desktop\OneDrive\Documentos\GitHub\CaosnaCantina\obj\Debug\net10.0\ref\CaosnaCantina.dll
